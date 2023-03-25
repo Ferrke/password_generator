@@ -1,4 +1,5 @@
 import string
+import secrets
 
 def generate_password(length):
     # Define the set of characters to be used in the password
